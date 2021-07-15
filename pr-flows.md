@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "PR Flows"
-permalink: /articles/
+date: 2021-07-15 15:05:00 -0700
+permalink: /articles/pr-flows
 ---
 
 | NOTE: Draft
