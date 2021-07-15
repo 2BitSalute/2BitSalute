@@ -1,6 +1,8 @@
+---
 layout: page
 title: "PR Flows"
 permalink: /articles/
+---
 
 | NOTE: Draft
 
