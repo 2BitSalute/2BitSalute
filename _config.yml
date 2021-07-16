@@ -1,3 +1,4 @@
 # the best theme is the default one
 # layout: default
 # remote_theme: jekyll/minima
+theme: jekyll-theme-primer
