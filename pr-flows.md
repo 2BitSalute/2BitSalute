@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "PR Flows"
-date: 2021-07-15 15:05:00 -0700
 permalink: /articles/pr-flows
 ---
 
