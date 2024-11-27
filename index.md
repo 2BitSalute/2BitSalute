@@ -4,4 +4,6 @@ layout: default
 
 ## Welcome
 
+[Work Items vs. Area Paths in Azure DevOps](articles/sizing-work-items.md)
+
 [PR Flows](articles/pr-flows)
